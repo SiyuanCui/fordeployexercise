@@ -30,7 +30,7 @@ SECRET_KEY = 'q(yz8n=rc&4ru++jci3-m0p-cffu0*_r9c++r0u3rq^_inrhgd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['erenhisoka.pythonanywhere.com’]
 
 
 # Application definition
